@@ -1,0 +1,74 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: "Nanum Myeongjo", serif;
+}
+h1{
+  color: #66bfbf;
+  font-size: 562%;
+  font-family: "Dancing Script", serif;
+  line-height: 2;
+  margin-top: 2.5rem;
+  margin: 0 auto 0 auto;
+}
+h2{
+  color: #66bfbf;
+  font-size: 175%;
+  font-weight: normal;
+  margin: 0 auto 0 auto;
+}
+h3{
+  color: #11999e;
+  font-size: 125%;
+  font-weight: normal;
+  margin: 0 auto 0 auto;
+}
+.topContainer{
+  background-color: #d4ebd0;
+}
+.middleContainer{
+  background-color: #f1f9f9;
+}
+.bottomContainer{
+  background-color: #a4c5c6;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.topCloud{
+  position: relative;
+  margin-left: 300px;
+}
+
+.botCloud{
+  position: absolute;
+}
+
+.circleImage{
+  border-radius: 100%;
+}
+.skill-row{
+  line-height: 2;
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.skill-Image-Java{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-Image-Drawing{
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.drawings{
+  width: 40%;
+}
